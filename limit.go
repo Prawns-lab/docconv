@@ -1,3 +1,3 @@
 package docconv
 
-const maxBytes = 20 << 20 // 20MB
+const maxBytes = 50 << 50 // 20MB
